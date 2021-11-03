@@ -9,7 +9,7 @@
 #### Los sonidos en minecraft son más o menos. Unos suenan bien y calmante y otros son bien alto y sorperndido. Hay sonido para cunado rompes y pongas un bloque, para las criaturas.
 
 ## Mecanica: Acciones y es el nucleó del verbo.
-####: Las mecanicas en Minecraft son simples. Hay un 
+####: Las mecanicas en Minecraft son simples. Se puede caminar,correr,bricar,comer,romper y poner bloques, oficiar cosas, attackar con una arma o tus manos
 
 ### Controles: Ayuda el jugador sentir control completo del personaje.
 #### Los controles de Mincraft funcionan bien y simples. Se puede usar el teclado, keybord y ratón en la computadora y los joysticks y botones en las consolas del juego.
