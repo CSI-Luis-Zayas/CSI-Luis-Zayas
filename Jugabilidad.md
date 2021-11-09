@@ -7,7 +7,7 @@
 #### Los backrounds de Minecraft da escenarios y significado a lo que hace el jugador en el juego. En el background se ve el cielo, las nubes, el sol y la luna.
 
 ### Sonido
-####Ayudan al jugador sentir emoción,suspenso o terror y hace que el jugador se sienta que está en la acción.
+#### Ayudan al jugador sentir emoción,suspenso o terror y hace que el jugador se sienta que está en la acción.
 #### Los sonidos en minecraft son más o menos. Unos suenan bien y calmante y otros son bien alto y sorperndido. Hay sonido para cunado rompes y pongas un bloque, para las criaturas.
 
 ### Gráficas: 
