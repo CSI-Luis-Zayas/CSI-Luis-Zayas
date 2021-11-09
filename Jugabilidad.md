@@ -35,6 +35,6 @@
 
 <img src= https://user-images.githubusercontent.com/93533398/140939541-7142a840-d5a7-4854-bf70-bdeb03398581.png
      title="Minecraft"
-     width="20%"
-     height="20%" />
+     width="50%"
+     height="50%" />
 
