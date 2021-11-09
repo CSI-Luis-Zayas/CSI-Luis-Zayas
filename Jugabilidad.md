@@ -31,5 +31,10 @@
 
 ## Personajes: Alguien que eljugador controla.
 #### El personaje que el jugador controla se puede cambiar como se parece y tambiéne el nombre y no hay un número exácto que personas pueden jugar en el juego excepto con el limite de controles.
-![image](https://user-images.githubusercontent.com/93533398/140939541-7142a840-d5a7-4854-bf70-bdeb03398581.png)
+
+
+<img src= https://user-images.githubusercontent.com/93533398/140939541-7142a840-d5a7-4854-bf70-bdeb03398581.png
+     title="Minecraft"
+     width="20%"
+     height="20%" />
 
