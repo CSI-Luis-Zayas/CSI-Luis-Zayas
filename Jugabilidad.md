@@ -28,3 +28,8 @@
 
 ## Objetos: Algo que puedes coger que puede ser bueno o malo.
 #### Hay muchos objetos en Minecraft como manzana, espadas, pan, oro, diamantes, emeraldes, etc.
+
+## Personajes: Alguien que eljugador controla.
+#### El personaje que el jugador controla se puede cambiar como se parece y tambiéne el nombre y no hay un número exácto que personas pueden jugar en el juego excepto con el limite de controles.
+![image](https://user-images.githubusercontent.com/93533398/140939541-7142a840-d5a7-4854-bf70-bdeb03398581.png)
+
