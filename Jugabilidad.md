@@ -20,3 +20,5 @@
 ### Mundo: Permiten visualizar el mundo desde arriba, desde un lado o desde dentro y determinan el movimiento del jugador.
 #### El mundo de Minecraft es completamente hecho de bloques en 3D que lo hace interesante.
 
+### Objetivo: Algo que el jugador logra.
+#### El objetivo de Minecraft es matar al Ender Dragon por illendo por un portal hacia el End.
