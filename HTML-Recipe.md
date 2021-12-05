@@ -5,25 +5,6 @@
      width = 50%
      lenght= 20% />
 <h3> Ingredients: </h3>
-No order list
-<ul>
-<li> 4-6 tazas de agua caliente </li>
-<li> 1/2 paquete de saborizante de jamón (utilizo la marca Goya Jamón) </li>
-<li> 2 cucharadas de sofrito (hecho en casa es mejor) </li>
-<li> 3 tazas de arroz blanco de grano medio o largo, enjuagado </li>
-<li> 1/3 de jamón o tocino picado </li>
-<li> 1/2 kg carne de cerdo (o al gusto) </li>
-<li> 1 paquete de Sazón con Achiote (uso marca Goya) </li>
-<li> 1 lata (15 onzas) de gandulas (arvejas), parcialmente escurridas </li>
-<li> 4 onzas de salsa de tomate </li>
-<li> 2 cucharadas de alcaparrado </li>
-<li> 1/4 cucharadita de comino molido </li>
-<li> 1/8 cucharadita de orégano molido </li>
-<li> 1/4 cucharadita de ajo en polvo </li>
-<li> 3 tazas de arroz blanco de grano medio o largo, enjuagado </li>
-<li> 3 cucharadas de aceite vegetal </li>
- 
- Ordered list
  <ol>
  <li> 3 tazas de arroz blanco de grano medio o largo, enjuagado </li>
  <li> 1/2 kg carne de cerdo (o al gusto) </li>
