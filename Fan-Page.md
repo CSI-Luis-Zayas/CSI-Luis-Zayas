@@ -1,54 +1,74 @@
 
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Pestily </b></h1>
+
+<div align="center">
+    <img    src=""
+            title=""
+            width="20%"
+            height="20%" 
+            />
+</div>
+
+<h2 align="center" > Acting, streaming, sports or other personality Fan Page!</h2>
+
+<br>
+
+<div align="center">
+    <img    src=""
+            title=""
+            width="50%"
+            height="50%" 
+            />
+</div>
 
 
-<Table>
-<tr>
-<th> Name </th>
-<td></td>
-    
-</tr>
-<tr>
-<th> Age </th>
-<td><B><i> </i></B></td>
-    
-</tr>
-<tr>
-<th> Twitch </th>
-<td><a> </a><td>
-</tr> 
-    
-</tr>
-<tr>
-<th> </th>
-<td> </td>
-    
+<br>
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+  
+</p>
+
+
+<br>
+
+
+<table>
+    <tr>
+        <th>Name</th>
+        <td></td>
     </tr>
-<tr>
-<th> </th>
-<td> </td>
-    
+    <tr>
+        <th>Age</th>
+        <td></td>
     </tr>
-<tr>
-<th> </th>
-<td> </td>
-    
+    <tr>
+        <th>Birthday</th>
+        <td></td>
     </tr>
-<tr>
-<th> </th>
-<td> </td>
-    
+        <tr>
+        <th>Nationality</th>
+        <td></td>
     </tr>
-<tr>
-<th> </th>
-<td> </td>
-    
+    <tr>
+        <th>Instagram</th>
+        <td></td>
     </tr>
-<tr>
-<th> </th>
-<td> </td>
-    
+    <tr>
+        <th>Twitter</th>
+        <td></td>
     </tr>
-<tr>
-<th> </th>
-<td> </td>
-</Table>
+    <tr>
+        <th>Youtube</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Twitch</th>
+        <td><a href=" </a></td>
+    </tr>
+</table>
+
+
+<br><br>
+
+<p>
+    <i>Made by: <u>n</u></i>
+</p>
