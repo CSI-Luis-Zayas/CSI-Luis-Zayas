@@ -9,7 +9,7 @@
             />
 </div>
 
-<h2 align="center" > Acting, streaming, sports or other personality Fan Page!</h2>
+<h2 align="center" ></h2>
 
 <br>
 
