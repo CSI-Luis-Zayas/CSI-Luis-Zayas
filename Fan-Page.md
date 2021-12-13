@@ -1,5 +1,5 @@
 
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b>Marcos Gabriel Berrios</b></h1>
+<h1 style="font-family: Brush Script MT; font-size:300%;" align="center" > <b>Marcos Gabriel Berrios</b></h1>
 
 <div align="center">
     <img    src="https://user-images.githubusercontent.com/93533398/145138269-d0d9b7ce-5c8a-453b-8185-3cb6018df349.png"
@@ -22,7 +22,7 @@
 </div>
 
 <br>
-<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+<p style = "text-indent: 2cm; font-family: Abril Fatface MT; font-size:150%">
     Marcos Gabriel Berrios was raised in Guaynabo, The Air Force test pilot has a bachelor's degree in mechanical engineering from Massachusetts Institute of Technology (MIT), a master's degree in mechanical engineering and a doctorate in aeronautics and astronautics from Stanford University, Palo Alto, California.  He graduated from the US Naval Test Pilot School in Patuxebt River, Maryland.  He has accumulated more than 110 combat missions and 1,300 hours of flight time in more than 21 different aircrafts. He will report for duty as a NASA astronaut in January 2022 to complete two years of initial astronaut training..
   
 </p>
